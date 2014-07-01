@@ -1,7 +1,7 @@
 ciblog
 ======
 
-Lightweight blog
+Lightweight blog, written on CodeIgniter.
 ======
 Screenshots:
 ![alt tag](http://savepic.ru/5231690.png)
